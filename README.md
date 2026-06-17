@@ -1,2 +1,2 @@
 # style-buddy
-classification using imagenet
+5 cat - footwear , tops, bottoms , accessories , dresses done
